@@ -2,7 +2,7 @@
 
 import React, { useEffect } from 'react';
 import { heroSlides } from '@/data/data';
-import './hero.css';
+import './Hero.css';
 import HeroSlide from '@/components/HeroSlide';
 
 // import AOS
